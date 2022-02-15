@@ -3,7 +3,7 @@
 My name is Juliana Barbosa and I'm a software engineer living in Brazil.
 I'm currently working with Golang and microservices artchitecture.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaabs&layout=compact&hide=html&langs_count=4)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaabs&layout=compact&hide=html&langs_count=6)]
 
 https://www.linkedin.com/in/juliana-barbosa-dos-santos-11085514a/
 
