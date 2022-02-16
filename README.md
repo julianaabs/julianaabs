@@ -3,6 +3,8 @@
 My name is Juliana Barbosa and I'm a software engineer living in Brazil. I'm a bachelor in Information Teechnology (UFRN).
 I'm currently working with Golang and microservices architecture.
 
+[![julianaabs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianaabs)](https://github.com/anuraghazra/github-readme-stats)
+
 https://www.linkedin.com/in/juliana-barbosa-dos-santos-11085514a/
 
 <!--
