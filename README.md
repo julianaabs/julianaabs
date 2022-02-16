@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Juliana Barbosa and I'm a software engineer living in Brazil.
-I'm currently working with Golang and microservices artchitecture.
+My name is Juliana Barbosa and I'm a software engineer living in Brazil. I'm a bachelor in Information Teechnology (UFRN).
+I'm currently working with Golang and microservices architecture.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaabs&layout=compact&hide=html&langs_count=6)
+https://github-readme-stats.vercel.app/api/wakatime?username=julianaabs
 
 https://www.linkedin.com/in/juliana-barbosa-dos-santos-11085514a/
 
