@@ -1,12 +1,17 @@
-### Hi there 👋
+### Hi there! 👋🏼
 
-My name is Juliana Barbosa and I'm a software engineer living in Brazil. I'm a bachelor in Information Technology (UFRN).
+👩‍💻 My name is Juliana Barbosa and I'm a software engineer living in Brazil. I'm a bachelor in Information Technology at UFRN. I'm working with software development since 2017 and I've worked with PHP, Laravel, Golang, Node.js, Java and C#.
 
-I'm currently working with Golang and microservices architecture.
+💻 Now I'm currently working with Golang and microservices architecture at OLX Brasil.
+
+👩🏼‍💻 Things I've been studying lately: 
+- gRPC
+- Microservices Architecture
+- Concurrency Programming
+
+[Add me on LinkedIn!](https://www.linkedin.com/in/juliana-barbosa-dos-santos-11085514a/)
 
 [![julianaabs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianaabs)](https://github.com/anuraghazra/github-readme-stats)
-
-https://www.linkedin.com/in/juliana-barbosa-dos-santos-11085514a/
 
 <!--
 **julianaabs/julianaabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
